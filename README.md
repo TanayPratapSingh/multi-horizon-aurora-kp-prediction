@@ -1,6 +1,4 @@
 # Multi-Horizon Geomagnetic Kp Index Prediction Using LSTM Neural Networks
-
-**IST 691: Deep Learning in Practice - Final Project Report**
 ---
 
 ## Project Overview
