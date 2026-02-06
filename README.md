@@ -1,13 +1,6 @@
 # Multi-Horizon Geomagnetic Kp Index Prediction Using LSTM Neural Networks
 
 **IST 691: Deep Learning in Practice - Final Project Report**
-
-**Team Members:**
-- Atharva Bhushan Karekar
-- Nikita Sharma
-- Prasad Shimpi
-- Tanay Singh
-
 ---
 
 ## Project Overview
