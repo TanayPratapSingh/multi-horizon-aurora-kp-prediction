@@ -1,5 +1,4 @@
 # Multi-Horizon Geomagnetic Kp Index Prediction Using LSTM Neural Networks
----
 
 ## Project Overview
 
